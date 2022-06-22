@@ -1,3 +1,4 @@
 <?php
-header('Location: dance academy.php');
+header('Location: dance_academy.php');
+echo "hello";
 ?>
